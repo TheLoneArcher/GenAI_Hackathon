@@ -1,0 +1,4 @@
+google-genai
+supabase
+python-dotenv
+psycopg2-binary

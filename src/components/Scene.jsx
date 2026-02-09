@@ -12,7 +12,7 @@ export function Scene() {
             <ParticleField />
 
             <Float speed={2} rotationIntensity={1.5} floatIntensity={1.5}>
-                <group scale={1.2}>
+                <group position={[2.5, 0, 0]} scale={1.5}>
                     <TechCore />
                 </group>
             </Float>
